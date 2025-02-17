@@ -1,0 +1,3 @@
+# Ignore all files in data, except for UPLOAD_FILES
+data/*
+!data/PUT_DATA_HERE
