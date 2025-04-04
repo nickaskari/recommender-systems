@@ -215,6 +215,18 @@ wheels = [
 ]
 
 [[package]]
+name = "implicit"
+version = "0.7.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "numpy" },
+    { name = "scipy" },
+    { name = "threadpoolctl" },
+    { name = "tqdm" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2e/1c/b3154f16fec6ebc9bc118ad4fbadc960a656d6a55eae2e6f3f9dd08409e6/implicit-0.7.2.tar.gz", hash = "sha256:bacf79120c87ad0744a4365a089409fddd33231880aef4a495bab2d4f888291d", size = 70298 }
+
+[[package]]
 name = "ipykernel"
 version = "6.29.5"
 source = { registry = "https://pypi.org/simple" }
@@ -852,6 +864,7 @@ name = "recommender-systems"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "implicit" },
     { name = "ipykernel" },
     { name = "ipython" },
     { name = "matplotlib" },
@@ -870,6 +883,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "implicit", specifier = ">=0.7.2" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "ipython", specifier = ">=8.32.0" },
     { name = "matplotlib", specifier = ">=3.10.0" },
