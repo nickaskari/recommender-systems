@@ -1,6 +1,8 @@
-# Anbefalingssystemer
+# News Recommender System
 
-Project for Recommender Systems - TDT4215, Spring 2025, NTNU.
+Project in TDT4215 Recommender Systems (Spring 2025, NTNU)
+Group 26: Nick Askari, Mathias Raa, and Ragnhild Bodsberg
+Dataset: MIND
 
 Data set naming:
 
