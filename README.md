@@ -5,7 +5,7 @@ This student project implements several recommender methods (baseline, content-b
 ## Info
 
 - Dataset: [MIND](https://msnews.github.io/)
-- Course: TDT4215 - Recommender Systems (Spring 2025, NTNU).
+- Course: TDT4215 - Recommender Systems (NTNU)
 - Group members:
   - Nick Askari
   - Mathias Raa
