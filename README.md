@@ -9,7 +9,7 @@ This student project implements several recommender methods (baseline, content-b
 - Group members:
   - Nick Askari
   -  Ragnhild Bodsberg
-  - Mathias Raa
+  - Mathias Skogen Raa
 
 --------------------------------------------------------------------
 This is for Nick:
