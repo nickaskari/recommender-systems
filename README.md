@@ -1,18 +1,15 @@
-# News Recommendation with MIND Dataset
+# News Recommendation with MIND Dataset 💡🔎
 
-This project implements several recommender methods (baseline, content-based, collaborative, and hybrid) on the MIND dataset for news recommendation.
+This student project implements several recommender methods (baseline, content-based, collaborative, and hybrid) on the MIND dataset for news recommendation. The aim of the project was to get practical and hands-on experience with recommender systems. The project ran from January 2025 to April 2025.
 
 ## Info
 
+- Dataset: [MIND](https://msnews.github.io/)
 - Course: TDT4215 - Recommender Systems (Spring 2025, NTNU).
 - Group members:
   - Nick Askari
   - Mathias Raa
   - Ragnhild Bodsberg
-
-## Dataset Used
-
-- **Dataset:** [MIND](https://msnews.github.io/)
 
 --------------------------------------------------------------------
 This is for Nick:
