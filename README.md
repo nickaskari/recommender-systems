@@ -8,8 +8,8 @@ This student project implements several recommender methods (baseline, content-b
 - Course: TDT4215 - Recommender Systems (NTNU)
 - Group members:
   - Nick Askari
+  -  Ragnhild Bodsberg
   - Mathias Raa
-  - Ragnhild Bodsberg
 
 --------------------------------------------------------------------
 This is for Nick:
